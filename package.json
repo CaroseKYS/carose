@@ -1,0 +1,19 @@
+{
+  "name": "carose",
+  "version": "0.1.0",
+  "description": "前端集成解决方案封装\r 暂时尚未进行开发，先在github和npm上占住这个模块名称。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaroseKYS/carose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaroseKYS/carose/issues"
+  },
+  "homepage": "https://github.com/CaroseKYS/carose#readme"
+}
